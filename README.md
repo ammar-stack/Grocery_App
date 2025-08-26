@@ -1,16 +1,7 @@
 # gorcery_app
 
-A new Flutter project.
+Basic CRUD using sqflite in flutter. Screenshots are as follows:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/bd46c91e-cf99-47ba-a04b-8b1e5daa3e73" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/3652653a-bec2-4e6f-abe5-23b2c4d99174" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/7dc58bd3-f176-429e-8774-a5e8beaf23c9" />
